@@ -1,1 +1,1 @@
-This entire project is for me to learn how to use GitHub and learn something new in Python
+<b>Objective:</b> Learn how to webscrape to gather what I need for the "story"
